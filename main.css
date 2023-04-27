@@ -1,0 +1,109 @@
+
+
+
+.thongtina6{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px 0 0 20px;
+}
+
+
+.body{
+    display: flex;
+
+}
+.body1{
+    width: 300px;
+    height: 700px;
+   
+}
+.anh1{
+    width: 200px;
+    height: 200px;
+   
+    margin: 30px 0 0 40px;
+
+}
+.body2{
+    width: 1200px;
+    height: 700px;
+    /* display: flex; */
+    background-color: antiquewhite;
+    
+    
+}
+.document{
+    color: red;
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+.document2{
+    color: red;
+    font-size: 20pt;
+    font-family: sans-serif;
+}
+body{
+    background-color: aqua;
+}
+header{
+    background-color: black;
+    height: 100px;
+    font-size: 40px;
+    text-align: center;
+    
+}
+.anh2{
+    width: 160px;
+    height: 140px;
+    margin: 30px 0 0 60px;
+    
+}
+*{
+    margin: 0;
+}
+.anh3{
+    width: 100px;
+    height: 100px;
+    margin: 20px 0 0 90px;
+}
+
+.body3{
+    width: 290px;
+    height: 700px;
+    margin: 0 0 0 10px ;
+    
+    
+    
+}
+
+.menu{   
+    height: 20px;
+}
+.menu1{
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 10px;
+    color: black;
+    margin-left: 20px;
+}
+.ten{
+    color: rgb(10, 10, 72);
+    font-size: 30px;
+}
+.thongtina{
+font-size: 18px;
+color: rgb(10, 10, 72);
+}
+
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: aliceblue;
+    display: flex;
+}
+.anh1{
+    margin-left: 15px;
+}
+
+
